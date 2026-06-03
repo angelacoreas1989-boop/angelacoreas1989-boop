@@ -2,31 +2,78 @@
   <img src="./angela-coreas-banner.png" alt="Angela Coreas Banner" />
 </p>
 
-<h1 align="center">✦ Angela Coreas ✦</h1>
+<br/>
+
+<h1 align="center"> ✦ Angela Coreas ✦ </h1>
 
 <p align="center">
-<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-hotpink?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-FRONTEND%20DEVELOPER-black?style=for-the-badge&logo=github&logoColor=pink"/>
-<img src="https://img.shields.io/badge/STYLE-PINK%20CYBER%20AESTHETIC-hotpink?style=for-the-badge"/>
+<b>Frontend Developer | Aspiring Software Engineer</b>
 </p>
 
 <p align="center">
-<b>Aspiring Software Engineer</b> transitioning from property management into tech.<br/>
-Building elegant, real-world applications with a focus on clean UI and modern frontend development.
+I build responsive web applications and continuously improve my problem-solving skills through hands-on development.
 </p>
 
----
+<p align="center">
+Focused on writing clean, structured code and learning industry-standard development practices.
+</p>
+
+<br/>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Focus-Frontend_Engineering-hotpink?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Skills-HTML_CSS_JavaScript-black?style=for-the-badge&logo=github&logoColor=pink"/>
+<img src="https://img.shields.io/badge/Goal-SWE_Internship-hotpink?style=for-the-badge"/>
+
+</p>
+
+<br/>
+
+<p align="center">
+<a href="https://github.com/angelacoreas1989-boop">
+<img src="https://img.shields.io/badge/GitHub-Projects-black?style=for-the-badge&logo=github&logoColor=pink"/>
+</a>
+
+<a href="https://www.linkedin.com/in/angela-coreas-550088186">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-hotpink?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+<br/>
 
 ## ✦ ABOUT ME ✦
 
-- 🔹 Building real-world projects with HTML, CSS, JavaScript  
-- 🔹 Learning Git + GitHub workflows  
-- 🔹 Focused on frontend UI + user experience design  
-- 🔹 Goal: Software Engineering Internship  
+- Aspiring Software Engineer focused on frontend development and problem-solving  
+- Building real-world projects to strengthen my understanding of web applications  
+- Learning JavaScript, Git, and modern development workflows  
+- Interested in product engineering, enterprise systems, and scalable applications  
+- Goal: Software Engineering Internship at a product-focused or enterprise tech company  
 
 ---
 
-## ✦ TECH STACK ✦
+## ✦ SKILLS DEMONSTRATED ✦
+
+- Responsive web design  
+- UI layout and structure  
+- JavaScript fundamentals  
+- DOM manipulation  
+- Version control with Git & GitHub  
+- Project-based learning  
+
+---
+
+## ✦ CAREER FOCUS ✦
+
+- Software Engineering Internship readiness  
+- Frontend development specialization  
+- Building interactive web applications  
+- Strengthening problem-solving skills  
+- Growing toward real-world production engineering workflows  
+
+---
+
+## ✦ TECHNICAL SKILLS ✦
 
 <p align="center">
 
@@ -35,7 +82,6 @@ Building elegant, real-world applications with a focus on clean UI and modern fr
 <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=pink"/>
 <img src="https://img.shields.io/badge/Git-lightpink?style=for-the-badge&logo=git&logoColor=black"/>
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=pink"/>
-<img src="https://img.shields.io/badge/VSCode-pink?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 </p>
 
@@ -43,46 +89,23 @@ Building elegant, real-world applications with a focus on clean UI and modern fr
 
 ## ✦ FEATURED PROJECTS ✦
 
-### 💎 Leasing Application Portal
-Front-end leasing system simulating real-world property workflows.
+### 🏡 Leasing Application Portal
+Front-end application simulating real-world property management workflows.
 
-🔗 Live Site:  
+🔗 Live Demo:  
 https://angelacoreas1989-boop.github.io/leasing-application-portal/
 
 ---
 
 ### 🌸 Flower Shop Website
-Elegant floral landing page focused on UI and design.
+Responsive landing page focused on UI design and layout structure.
 
-🔗 Live Site:  
+🔗 Live Demo:  
 https://angelacoreas1989-boop.github.io/nicole-flower-designs/
 
 ---
 
-## ✦ DEVELOPMENT STATUS ✦
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/LEARNING-JavaScript%20Fundamentals-hotpink?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BUILDING-PROJECTS-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NEXT%20UP-BACKEND%20DEVELOPMENT-hotpink?style=for-the-badge"/>
-
-</p>
-
----
-
-## ✦ CAREER GOAL ✦
-
-- Secure a software engineering internship  
-- Build full-stack applications  
-- Improve JavaScript skills  
-- Strengthen UI/UX design ability  
-
----
-
-## ✦ CONNECT ✦
-
-<p align="center">
+## ✦ CONNECT WITH ME ✦
 
 LinkedIn:  
 https://www.linkedin.com/in/angela-coreas-550088186  
@@ -90,10 +113,8 @@ https://www.linkedin.com/in/angela-coreas-550088186
 GitHub:  
 https://github.com/angelacoreas1989-boop  
 
-</p>
-
 ---
 
 <p align="center">
-<i>Always building. Always learning. Always improving.</i>
+<i>Building consistently. Learning intentionally. Growing into software engineering.</i>
 </p>
