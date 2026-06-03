@@ -2,97 +2,98 @@
   <img src="./angela-coreas-banner.png" alt="Angela Coreas Banner" />
 </p>
 
-<h1 align="center">👩🏽‍💻 Hi, I’m Angela Coreas</h1>
+<h1 align="center">✦ Angela Coreas ✦</h1>
 
 <p align="center">
-Aspiring Software Engineer transitioning from property management into tech.<br/>
-I enjoy building practical, real-world applications and learning how software systems work behind the scenes.
+<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-hotpink?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-FRONTEND%20DEVELOPER-black?style=for-the-badge&logo=github&logoColor=pink"/>
+<img src="https://img.shields.io/badge/STYLE-PINK%20CYBER%20AESTHETIC-hotpink?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/angelacoreas1989-boop">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=pink"/>
-  </a>
-  <a href="https://www.linkedin.com/in/angela-coreas-550088186">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-hotpink?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<b>Aspiring Software Engineer</b> transitioning from property management into tech.<br/>
+Building elegant, real-world applications with a focus on clean UI and modern frontend development.
 </p>
 
 ---
 
-## 🌟 About Me
+## ✦ ABOUT ME ✦
 
-- 🔭 Currently focused on front-end development (HTML, CSS, JavaScript)
-- 📚 Learning software engineering fundamentals step-by-step
-- 💡 Passionate about turning ideas into real-world applications
-- 🎯 Goal: Land a software engineering internship
+- 🔹 Building real-world projects with HTML, CSS, JavaScript  
+- 🔹 Learning Git + GitHub workflows  
+- 🔹 Focused on frontend UI + user experience design  
+- 🔹 Goal: Software Engineering Internship  
 
 ---
 
-## 🧰 Tech Stack
+## ✦ TECH STACK ✦
 
 <p align="center">
 
-![HTML](https://img.shields.io/badge/HTML5-pink?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-hotpink?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=pink)
-![Git](https://img.shields.io/badge/Git-lightpink?style=for-the-badge&logo=git&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=pink)
-![VS Code](https://img.shields.io/badge/VSCode-pink?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://img.shields.io/badge/HTML5-pink?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-hotpink?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=pink"/>
+<img src="https://img.shields.io/badge/Git-lightpink?style=for-the-badge&logo=git&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=pink"/>
+<img src="https://img.shields.io/badge/VSCode-pink?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 </p>
 
 ---
 
-## 📊 GitHub Activity
+## ✦ FEATURED PROJECTS ✦
+
+### 💎 Leasing Application Portal
+Front-end leasing system simulating real-world property workflows.
+
+🔗 Live Site:  
+https://angelacoreas1989-boop.github.io/leasing-application-portal/
+
+---
+
+### 🌸 Flower Shop Website
+Elegant floral landing page focused on UI and design.
+
+🔗 Live Site:  
+https://angelacoreas1989-boop.github.io/nicole-flower-designs/
+
+---
+
+## ✦ DEVELOPMENT STATUS ✦
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=angelacoreas1989-boop&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelacoreas1989-boop&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=angelacoreas1989-boop&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/LEARNING-JavaScript%20Fundamentals-hotpink?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BUILDING-PROJECTS-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NEXT%20UP-BACKEND%20DEVELOPMENT-hotpink?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## 📌 Featured Projects
+## ✦ CAREER GOAL ✦
 
-<p align="center">
-
-### 🏡 Leasing Application Portal  
-🔗 https://angelacoreas1989-boop.github.io/leasing-application-portal/
-
-### 🌸 Flower Shop Project  
-🔗 https://angelacoreas1989-boop.github.io/nicole-flower-designs/
-
-</p>
+- Secure a software engineering internship  
+- Build full-stack applications  
+- Improve JavaScript skills  
+- Strengthen UI/UX design ability  
 
 ---
 
-## 🎯 Career Goals
-
-- Secure a software engineering internship
-- Build full-stack applications
-- Strengthen JavaScript + backend development skills
-- Contribute to real-world projects
-
----
-
-## 📫 Connect With Me
+## ✦ CONNECT ✦
 
 <p align="center">
 
-📍 LinkedIn:  
+LinkedIn:  
 https://www.linkedin.com/in/angela-coreas-550088186  
 
-📍 GitHub:  
+GitHub:  
 https://github.com/angelacoreas1989-boop  
 
+</p>
+
+---
+
+<p align="center">
+<i>Always building. Always learning. Always improving.</i>
 </p>
