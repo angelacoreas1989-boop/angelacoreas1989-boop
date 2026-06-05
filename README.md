@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="./assets/angela-coreas-banner.png" alt="Angela Coreas Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/angelacoreas1989-boop/angelacoreas1989-boop/main/assets/angela-coreas-banner.png" alt="Angela Coreas Banner" width="100%" />
 </p>
-
 
 <h1 align="center">✦ Angela Coreas ✦</h1>
 
@@ -27,14 +26,17 @@ Turning ideas into practical applications while growing into a career in technol
   <a href="https://github.com/angelacoreas1989-boop">
     <img src="https://img.shields.io/badge/GitHub-Profile-5a5a5a?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
   <a href="https://angelacoreas1989-boop.github.io/tech-portfolio/">
-    <img src="https://img.shields.io/badge/Projects-Portfolio-000000?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge" />
   </a>
+
   <a href="https://www.linkedin.com/in/angela-coreas-550088186">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-5a5a5a?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://angelacoreas1989-boop.github.io/tech-portfolio/">
-    <img src="https://img.shields.io/badge/Profile-Angela_Coreas-ff69b4?style=for-the-badge" />
+
+  <a href="https://angelacoreas1989-boop.github.io/tech-portfolio/#projects">
+    <img src="https://img.shields.io/badge/Projects-View-ff69b4?style=for-the-badge" />
   </a>
 </p>
 
