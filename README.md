@@ -76,59 +76,71 @@ HTML • CSS • JavaScript • Python • Git • GitHub • VS Code
 
 ---
 
-#### ✦ FEATURED PROJECTS ✦
-
-### ✦ Leasing Application Portal
-
-A front-end workflow application that simulates real-world leasing operations, applicant review, search functionality, filtering, and decision logic.
-
-🔗 Live Demo:
-https://angelacoreas1989-boop.github.io/leasing-application-portal/
-
-🔗 Repository:
-https://github.com/angelacoreas1989-boop/leasing-application-portal
-
----
+###### ✦ FEATURED PROJECTS ✦
 
 ### ✦ DailyFlow
-
 A Python productivity planner designed to help users organize, manage, and complete daily tasks through a simple and efficient workflow.
 
 🚧 Currently in Development
 
 ---
 
-### ✦ Tech Portfolio
+### ✦ Leasing Application Portal
+A front-end workflow application that simulates real-world leasing operations, applicant review, search functionality, filtering, and decision logic.
 
+🔗 Live Demo:  
+https://angelacoreas1989-boop.github.io/leasing-application-portal/
+
+🔗 Repository:  
+https://github.com/angelacoreas1989-boop/leasing-application-portal
+
+---
+
+### ✦ Tech Portfolio
 A personal software engineering portfolio showcasing my projects, technical skills, and growth as I transition into the tech industry.
 
-🔗 Live Demo:
+🔗 Live Demo:  
 https://angelacoreas1989-boop.github.io/tech-portfolio/
 
-🔗 Repository:
+🔗 Repository:  
 https://github.com/angelacoreas1989-boop/tech-portfolio
 
 ---
 
 ### ✦ Nicole's Flower Designs
-
 A responsive business website featuring custom floral arrangements, weddings, special events, and customer quote request workflows.
+
+🔗 Live Demo:  
+https://angelacoreas1989-boop.github.io/nicole-flower-designs/
+
+🔗 Repository:  
+https://github.com/angelacoreas1989-boop/nicole-flower-designs
 
 ---
 
 ### ✦ Prime Nails by Fernanda
-
 A responsive beauty business website designed to showcase services, pricing, customer information, and appointment booking workflows.
+
+🔗 Live Demo:  
+https://angelacoreas1989-boop.github.io/prime-nails-by-fernanda/
+
+🔗 Repository:  
+https://github.com/angelacoreas1989-boop/prime-nails-by-fernanda
 
 ---
 
 ### ✦ A&S Tires
-
 A wholesale tire business website providing service information, ordering policies, delivery coverage, and customer inquiry workflows.
+
+🔗 Live Demo:  
+https://angelacoreas1989-boop.github.io/as-tires/
+
+🔗 Repository:  
+https://github.com/angelacoreas1989-boop/as-tires
 
 ---
 
-## ## ✦ CURRENT FOCUS ✦
+## ## ## ✦ CURRENT FOCUS ✦
 
 ✦ Building software engineering projects with real-world applications
 
