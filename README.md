@@ -42,13 +42,25 @@ Turning ideas into practical applications while growing into a career in technol
 
 ---
 
-## ✦ ABOUT ME ✦
+## ## ✦ ABOUT ME ✦
 
-I'm a Software Engineering student at Western Governors University, transitioning into technology with a background in operations, CRM systems, workflow management, and customer-focused problem solving.
+I'm a Software Engineering student at Western Governors University with a background in operations, customer experience, workflow management, and business systems.
 
-My experience in structured business environments has helped me develop strong communication, organization, analytical thinking, and process improvement skills. I am now applying those strengths to software development by building real-world projects that connect business needs with practical technical solutions.
+As I transition into technology, I'm focused on building a strong foundation in software engineering through hands-on projects that combine problem-solving, programming, and real-world business needs.
 
-I am currently focused on strengthening my skills in HTML, CSS, JavaScript, Git, GitHub, and Python while preparing for Software Engineering internship opportunities.
+My current areas of focus include:
+
+* Software Engineering
+* Python Development
+* Front-End Development
+* Data Structures & Algorithms
+* Cybersecurity Fundamentals
+* Modern Software Development Practices
+
+I enjoy creating applications and technical solutions that improve processes, solve problems, and provide meaningful value to users. Through each project, I continue developing the technical and analytical skills needed for a successful career in software engineering.
+
+My long-term goal is to become a Software Engineer while continuing to explore interests in cybersecurity, application security, and user-focused software development.
+
 
 ---
 
@@ -64,75 +76,90 @@ HTML • CSS • JavaScript • Python • Git • GitHub • VS Code
 
 ---
 
-## ✦ FEATURED PROJECTS ✦
-
-### ✦ Tech Portfolio
-A personal software engineering portfolio showcasing my projects, technical skills, and growth as I transition into the tech industry.
-
-🔗 Live Demo:  
-https://angelacoreas1989-boop.github.io/tech-portfolio/
-
-🔗 Repository:  
-https://github.com/angelacoreas1989-boop/tech-portfolio
-
----
+#### ✦ FEATURED PROJECTS ✦
 
 ### ✦ Leasing Application Portal
+
 A front-end workflow application that simulates real-world leasing operations, applicant review, search functionality, filtering, and decision logic.
 
-🔗 Live Demo:  
+🔗 Live Demo:
 https://angelacoreas1989-boop.github.io/leasing-application-portal/
 
-🔗 Repository:  
+🔗 Repository:
 https://github.com/angelacoreas1989-boop/leasing-application-portal
 
 ---
 
-### ✦ Nicole Flower Designs
-A responsive floral business website created to help a growing floral brand establish a professional online presence and showcase services.
-
-🔗 Live Demo:  
-https://angelacoreas1989-boop.github.io/nicole-flower-designs/
-
-🔗 Repository:  
-https://github.com/angelacoreas1989-boop/nicole-flower-designs
-
----
-
 ### ✦ DailyFlow
-A Python productivity planner designed to help users add, update, complete, and manage daily tasks throughout the day.
+
+A Python productivity planner designed to help users organize, manage, and complete daily tasks through a simple and efficient workflow.
 
 🚧 Currently in Development
 
 ---
 
-## ✦ CURRENT FOCUS ✦
+### ✦ Tech Portfolio
 
-✦ Building real-world software projects
+A personal software engineering portfolio showcasing my projects, technical skills, and growth as I transition into the tech industry.
 
-✦ Learning Python through hands-on development
+🔗 Live Demo:
+https://angelacoreas1989-boop.github.io/tech-portfolio/
 
-✦ Strengthening JavaScript skills
-
-✦ Exploring React fundamentals
-
-✦ Improving GitHub documentation and project presentation
-
-✦ Preparing for Software Engineering internship opportunities
+🔗 Repository:
+https://github.com/angelacoreas1989-boop/tech-portfolio
 
 ---
 
-## ✦ GOALS ✦
+### ✦ Nicole's Flower Designs
+
+A responsive business website featuring custom floral arrangements, weddings, special events, and customer quote request workflows.
+
+---
+
+### ✦ Prime Nails by Fernanda
+
+A responsive beauty business website designed to showcase services, pricing, customer information, and appointment booking workflows.
+
+---
+
+### ✦ A&S Tires
+
+A wholesale tire business website providing service information, ordering policies, delivery coverage, and customer inquiry workflows.
+
+---
+
+## ## ✦ CURRENT FOCUS ✦
+
+✦ Building software engineering projects with real-world applications
+
+✦ Strengthening Python programming skills
+
+✦ Learning data structures and algorithms
+
+✦ Expanding JavaScript and modern front-end development knowledge
+
+✦ Exploring cybersecurity and secure software development concepts
+
+✦ Preparing for Software Engineering internship opportunities
+
+✦ Continuing development of DailyFlow, a Python productivity application
+
+---
+
+#### ✦ GOALS ✦
 
 ✦ Land a Software Engineering internship
 
-✦ Continue building portfolio-ready applications
+✦ Build a strong foundation in software development and computer science fundamentals
 
-✦ Strengthen problem-solving and programming fundamentals
+✦ Continue creating portfolio-ready applications
 
-✦ Build projects that solve real-world problems
+✦ Strengthen programming, problem-solving, and system design skills
 
-✦ Grow into a confident software engineer
+✦ Explore opportunities in software engineering, cybersecurity, and application security
+
+✦ Grow into a confident Software Engineer capable of building impactful solutions
+
 
 ---
 
