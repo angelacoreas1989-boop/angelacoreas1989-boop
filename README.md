@@ -92,6 +92,7 @@ https://github.com/angelacoreas1989-boop/leasing-application-portal
 A productivity application being developed with Python to help users manage tasks, goals, schedules, and daily workflows through a simple and efficient interface.
 
 🚧 Currently in Development
+
 ---
 
  ✦ Tech Portfolio
