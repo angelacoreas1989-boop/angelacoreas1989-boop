@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-Turning ideas into practical applications while growing into a career in technology.
+Building workflow-driven applications that solve real-world business problems through software engineering.
 </p>
 
 <br/>
 
 <p align="center">
-<img src="https://img.shields.io/badge/WGU-Software_Engineering-e75480?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WGU-B.S._→_M.S._Software_Engineering-e75480?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Focus-Web_Development-ff69b4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Goal-SWE_Internship-ffb6c1?style=for-the-badge"/>
 </p>
@@ -42,11 +42,11 @@ Turning ideas into practical applications while growing into a career in technol
 
 ---
 
-## ## ✦ ABOUT ME ✦
+ ✦ ABOUT ME ✦
 
-I'm a Software Engineering student at Western Governors University with a background in operations, customer experience, workflow management, and business systems.
+I'm a Software Engineering student at Western Governors University with a background in operations, CRM systems, workflow management, customer experience, and business process improvement.
 
-As I transition into technology, I'm focused on building a strong foundation in software engineering through hands-on projects that combine problem-solving, programming, and real-world business needs.
+As a Software Engineering student, I'm focused on building a strong foundation through hands-on projects that combine programming, problem-solving, and real-world business needs.
 
 My current areas of focus include:
 
@@ -64,7 +64,7 @@ My long-term goal is to become a Software Engineer while continuing to explore i
 
 ---
 
-## ✦ TECH STACK ✦
+ ✦ TECH STACK ✦
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,python,git,github,vscode" />
@@ -76,17 +76,10 @@ HTML • CSS • JavaScript • Python • Git • GitHub • VS Code
 
 ---
 
-###### ✦ FEATURED PROJECTS ✦
+✦ FEATURED PROJECTS ✦
 
-### ✦ DailyFlow
-A Python productivity planner designed to help users organize, manage, and complete daily tasks through a simple and efficient workflow.
-
-🚧 Currently in Development
-
----
-
-### ✦ Leasing Application Portal
-A front-end workflow application that simulates real-world leasing operations, applicant review, search functionality, filtering, and decision logic.
+ ✦ Leasing Application Portal
+A front-end workflow application that simulates real-world leasing operations, applicant review, search functionality, filtering, and decision logic. Features include applicant approval logic, search and filtering functionality, community management workflows, and responsive design.
 
 🔗 Live Demo:  
 https://angelacoreas1989-boop.github.io/leasing-application-portal/
@@ -95,9 +88,14 @@ https://angelacoreas1989-boop.github.io/leasing-application-portal/
 https://github.com/angelacoreas1989-boop/leasing-application-portal
 
 ---
+ ✦ DailyFlow
+A productivity application being developed with Python to help users manage tasks, goals, schedules, and daily workflows through a simple and efficient interface.
 
-### ✦ Tech Portfolio
-A personal software engineering portfolio showcasing my projects, technical skills, and growth as I transition into the tech industry.
+🚧 Currently in Development
+---
+
+ ✦ Tech Portfolio
+A personal software engineering portfolio showcasing projects, technical skills, and workflow-driven solutions built to solve real-world business challenges.
 
 🔗 Live Demo:  
 https://angelacoreas1989-boop.github.io/tech-portfolio/
@@ -107,7 +105,7 @@ https://github.com/angelacoreas1989-boop/tech-portfolio
 
 ---
 
-### ✦ Nicole's Flower Designs
+ ✦ Nicole's Flower Designs
 A responsive business website featuring custom floral arrangements, weddings, special events, and customer quote request workflows.
 
 🔗 Live Demo:  
@@ -118,7 +116,7 @@ https://github.com/angelacoreas1989-boop/nicole-flower-designs
 
 ---
 
-### ✦ Prime Nails by Fernanda
+ ✦ Prime Nails by Fernanda
 A responsive beauty business website designed to showcase services, pricing, customer information, and appointment booking workflows.
 
 🔗 Live Demo:  
@@ -129,7 +127,7 @@ https://github.com/angelacoreas1989-boop/prime-nails-by-fernanda
 
 ---
 
-### ✦ A&S Tires
+ ✦ A&S Tires
 A wholesale tire business website providing service information, ordering policies, delivery coverage, and customer inquiry workflows.
 
 🔗 Live Demo:  
@@ -140,7 +138,7 @@ https://github.com/angelacoreas1989-boop/as-tires
 
 ---
 
-## ## ## ✦ CURRENT FOCUS ✦
+ ✦ CURRENT FOCUS ✦
 
 ✦ Building software engineering projects with real-world applications
 
@@ -155,23 +153,6 @@ https://github.com/angelacoreas1989-boop/as-tires
 ✦ Preparing for Software Engineering internship opportunities
 
 ✦ Continuing development of DailyFlow, a Python productivity application
-
----
-
-#### ✦ GOALS ✦
-
-✦ Land a Software Engineering internship
-
-✦ Build a strong foundation in software development and computer science fundamentals
-
-✦ Continue creating portfolio-ready applications
-
-✦ Strengthen programming, problem-solving, and system design skills
-
-✦ Explore opportunities in software engineering, cybersecurity, and application security
-
-✦ Grow into a confident Software Engineer capable of building impactful solutions
-
 
 ---
 
