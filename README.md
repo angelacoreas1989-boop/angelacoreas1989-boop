@@ -1,39 +1,39 @@
 <p align="center">
-  <img
-    src="assets/angela-coreas-banner.png"
-    alt="Angela Coreas Software Engineering Portfolio Banner"
-    width="100%"
-  />
+  <img src="./assets/angela-coreas-banner.png" alt="Angela Coreas Banner" width="100%" />
 </p>
 
-<h1 align="center">✦ Angela Coreas ✦</h1>
+<h1 align="center">✦ Hi, I’m Angela Coreas ✦</h1>
 
 <p align="center">
-  <strong>Software Engineering Student • Human-Centered Technology • Workflow-Focused Applications</strong>
+  <b>Software Engineering Student • Human-Centered Technology • Enterprise Software • PropTech</b>
 </p>
 
 <p align="center">
-  Building accessible, user-focused applications inspired by real business workflows and customer needs.
+I combine software engineering education with more than 10 years of experience in multifamily operations, customer experience, enterprise software, and technology-supported workflows.
 </p>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/WGU-Software_Engineering-e75480?style=for-the-badge" alt="WGU Software Engineering" />
+  <img src="https://img.shields.io/badge/Focus-Human--Centered_Technology-ff69b4?style=for-the-badge" alt="Human-Centered Technology" />
+  <img src="https://img.shields.io/badge/Interest-Enterprise_Software-5a5a5a?style=for-the-badge" alt="Enterprise Software" />
+  <img src="https://img.shields.io/badge/Industry-PropTech-ffb6c1?style=for-the-badge" alt="PropTech" />
+</p>
+
+<br/>
 
 <p align="center">
   <a href="https://angelacoreas1989-boop.github.io/tech-portfolio/">
-    <img
-      src="https://img.shields.io/badge/Portfolio-View%20My%20Work-ff69b4?style=for-the-badge"
-      alt="View Angela Coreas Portfolio"
-    />
+    <img src="https://img.shields.io/badge/Portfolio-View_My_Work-ff69b4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/angela-coreas-550088186">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-5a5a5a?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="Connect with Angela Coreas on LinkedIn"
-    />
+
+  <a href="https://www.linkedin.com/in/angela-coreas-550088186/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:angelacoreas1989@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-Contact%20Me-ffb6c1?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email Angela Coreas"
-    />
+
+  <a href="mailto:acorea3@wgu.edu">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-5a5a5a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Angela" />
   </a>
 </p>
 
@@ -41,255 +41,31 @@
 
 ## ✦ ABOUT ME ✦
 
-I am a Software Engineering student at Western Governors University with more than 10 years of professional experience in customer service, multifamily operations, CRM systems, workflow management, and business process improvement.
+Hi, I’m Angela! 👋
 
-My professional experience has shown me how technology affects real users. In my current role, I work with customer-facing systems and review AI-assisted conversations for accuracy, context, and successful task completion. When technology cannot resolve a customer's need, I apply human judgment and help move the experience forward.
+I’m a Software Engineering student at Western Governors University with more than 10 years of professional experience in multifamily operations, customer experience, centralized leasing, application support, and enterprise software.
 
-I bring that user-focused perspective into the applications I build. My projects combine software development with real business problems, including application processing, customer workflows, information organization, search, filtering, responsive design, and clear next steps for users.
+Throughout my career, I have worked with customer-facing systems and PropTech platforms including MRI Software, Yardi Voyager, Entrata, EliseAI, Funnel Leasing, Anyone Home, and Knock CRM.
 
-I am currently seeking Summer 2027 internship opportunities in UX, product design, front-end development, software engineering, and human-centered technology.
+Working with these technologies sparked my interest in software engineering, user experience, artificial intelligence, and business systems. I am especially interested in understanding how technology can simplify complex workflows, support users, and improve customer experiences.
 
----
+My portfolio combines academic projects with real-world business applications. I enjoy translating operational challenges into organized, human-centered technology solutions.
 
-## ✦ TECH STACK ✦
+I am currently seeking opportunities in:
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,angular,python,git,github,vscode&theme=dark"
-    alt="HTML, CSS, JavaScript, TypeScript, Angular, Python, Git, GitHub, and Visual Studio Code"
-  />
-</p>
+✦ Software Engineering
 
-<p align="center">
-  HTML • CSS • JavaScript • TypeScript • Angular • Python • Git • GitHub • VS Code
-</p>
+✦ Front-End Development
 
-### ✦ AI AND DEVELOPMENT TOOLS ✦
+✦ User Experience and Product Design
 
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/ChatGPT%20Work-000000?style=for-the-badge&logo=openai&logoColor=white"
-    alt="ChatGPT Work"
-  />
-  <img
-    src="https://img.shields.io/badge/ChatGPT%20Codex-5a5a5a?style=for-the-badge&logo=openai&logoColor=white"
-    alt="ChatGPT Codex"
-  />
-  <img
-    src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white"
-    alt="GitHub Pages"
-  />
-</p>
+✦ Enterprise Software
 
-### ✦ DESIGN AND USER EXPERIENCE ✦
+✦ Application and Technical Support
 
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/Responsive%20Design-ff69b4?style=for-the-badge"
-    alt="Responsive Design"
-  />
-  <img
-    src="https://img.shields.io/badge/User%20Flows-87CEEB?style=for-the-badge"
-    alt="User Flows"
-  />
-  <img
-    src="https://img.shields.io/badge/Workflow%20Design-ffb6c1?style=for-the-badge"
-    alt="Workflow Design"
-  />
-  <img
-    src="https://img.shields.io/badge/Usability-9370DB?style=for-the-badge"
-    alt="Usability"
-  />
-</p>
+✦ PropTech
 
-- Responsive interface design
-- User flows and workflow design
-- Form organization
-- Information hierarchy
-- Layout, typography, and color
-- Usability judgment
-- Customer-centered problem solving
-- AI-output evaluation and human oversight
-
----
-
-## ✦ FEATURED PROJECTS ✦
-
-### ✦ Magnolia Grove Rental Experience
-
-A responsive, multi-page apartment-search and rental-application experience designed around a prospective resident's leasing journey.
-
-**The user problem:** Prospective residents often navigate separate systems to review availability, understand qualification requirements, learn about policies, and submit an application.
-
-**My solution:** I created a connected experience that helps users explore apartment options, review screening requirements, understand fees and policies, and continue into an organized rental application.
-
-**Highlights:**
-
-- Apartment availability and floor-plan browsing
-- Screening requirements and qualification information
-- Multi-section rental application
-- Vehicle and pet registration workflows
-- Document-upload simulation
-- Responsive desktop and mobile layouts
-- Clear navigation through the leasing journey
-
-**Technologies:** HTML • CSS • JavaScript • Git • GitHub Pages
-
-<p>
-  <a href="https://angelacoreas1989-boop.github.io/apartment-application-portal/">
-    <img
-      src="https://img.shields.io/badge/Live%20Demo-View%20Project-ff69b4?style=for-the-badge"
-      alt="View Magnolia Grove Live Demo"
-    />
-  </a>
-  <a href="https://github.com/angelacoreas1989-boop/apartment-application-portal">
-    <img
-      src="https://img.shields.io/badge/GitHub-View%20Code-222222?style=for-the-badge&logo=github&logoColor=white"
-      alt="View Magnolia Grove Repository"
-    />
-  </a>
-</p>
-
-> **Portfolio demonstration:** This is a front-end project. Users should not submit real personal, financial, or identifying information.
-
----
-
-### ✦ Leasing Operations Dashboard
-
-A front-end workflow application that translates my professional experience in leasing operations and application processing into an interactive system.
-
-**The user problem:** Leasing teams manage high volumes of applicant information and need an efficient way to search records, identify application statuses, and complete review decisions.
-
-**My solution:** I developed a dashboard that organizes applicant records and allows users to search, filter, review, and update simulated applications.
-
-**Highlights:**
-
-- Applicant search and record retrieval
-- Approved, pending, and denied status filters
-- Application-review workflow
-- Simulated decision logic
-- Interactive dashboard metrics
-- Responsive interface design
-- Structured operational workflow
-
-**Technologies:** HTML • CSS • JavaScript • DOM Manipulation • Git • GitHub Pages
-
-<p>
-  <a href="https://angelacoreas1989-boop.github.io/leasing-application-portal/">
-    <img
-      src="https://img.shields.io/badge/Live%20Demo-View%20Project-ff69b4?style=for-the-badge"
-      alt="View Leasing Operations Dashboard Live Demo"
-    />
-  </a>
-  <a href="https://github.com/angelacoreas1989-boop/leasing-application-portal">
-    <img
-      src="https://img.shields.io/badge/GitHub-View%20Code-222222?style=for-the-badge&logo=github&logoColor=white"
-      alt="View Leasing Operations Dashboard Repository"
-    />
-  </a>
-</p>
-
----
-
-### ✦ Software Engineering Portfolio
-
-A responsive portfolio website created to present my projects, technical development, professional background, and transition into technology.
-
-**Design goals:**
-
-- Make projects easy for recruiters to locate
-- Communicate my technical skills clearly
-- Connect my operations experience with software engineering
-- Create a consistent and professional personal brand
-- Provide direct access to live demonstrations and source code
-
-**Technologies:** HTML • CSS • JavaScript • Git • GitHub Pages
-
-<p>
-  <a href="https://angelacoreas1989-boop.github.io/tech-portfolio/">
-    <img
-      src="https://img.shields.io/badge/Live%20Portfolio-View%20Website-87CEEB?style=for-the-badge"
-      alt="View Angela Coreas Live Portfolio"
-    />
-  </a>
-  <a href="https://github.com/angelacoreas1989-boop/tech-portfolio">
-    <img
-      src="https://img.shields.io/badge/GitHub-View%20Code-222222?style=for-the-badge&logo=github&logoColor=white"
-      alt="View Portfolio Repository"
-    />
-  </a>
-</p>
-
----
-
-### ✦ Nicole's Flower Designs
-
-A responsive small-business website that helps customers explore floral services, understand available options, and begin a quote-request workflow.
-
-**Highlights:**
-
-- Custom floral-arrangement showcase
-- Wedding and special-event information
-- Service and pricing presentation
-- Customer quote-request workflow
-- Responsive design
-- Business-focused visual identity
-
-**Technologies:** HTML • CSS • JavaScript • Git • GitHub Pages
-
-<p>
-  <a href="https://angelacoreas1989-boop.github.io/nicole-flower-designs/">
-    <img
-      src="https://img.shields.io/badge/Live%20Demo-View%20Project-ff69b4?style=for-the-badge"
-      alt="View Nicole's Flower Designs Live Demo"
-    />
-  </a>
-  <a href="https://github.com/angelacoreas1989-boop/nicole-flower-designs">
-    <img
-      src="https://img.shields.io/badge/GitHub-View%20Code-222222?style=for-the-badge&logo=github&logoColor=white"
-      alt="View Nicole's Flower Designs Repository"
-    />
-  </a>
-</p>
-
----
-
-## ✦ CURRENTLY LEARNING ✦
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=figma&theme=dark"
-    alt="Currently Learning Figma"
-  />
-</p>
-
-<p align="center">
-  Figma • Wireframes • Interactive Prototypes • User Research • Human-AI Interaction
-</p>
-
-I am currently expanding my skills in:
-
-- Python programming
-- Data structures and algorithms
-- JavaScript and modern front-end development
-- Human-centered design
-- User research and interaction design
-- Wireframes and interactive prototypes
-- Figma
-- Human-AI interaction
-- Accessible and secure software development
-
----
-
-## ✦ CURRENT PROJECT ✦
-
-### ✦ DailyFlow
-
-DailyFlow is a Python productivity application being developed to help users manage tasks, goals, schedules, and daily workflows through a clear and efficient interface.
-
-🚧 **Currently in development**
-
-A public repository and demonstration will be added when the first functional version is complete.
+✦ AI-Assisted Customer Experiences
 
 ---
 
@@ -298,57 +74,276 @@ A public repository and demonstration will be added when the first functional ve
 ### Western Governors University
 
 **Bachelor of Science in Software Engineering**  
-Expected Graduation: June 2028
+Expected Graduation: December 2028
+
+Developing skills in programming, web development, version control, software design, application development, data structures and algorithms, user experience, and software-quality practices.
+
+### Academic Organizations
+
+✦ Computer Science Club
+
+✦ Girls Who Code
+
+✦ Women in Technology
 
 ---
 
-## ✦ PROFESSIONAL PERSPECTIVE ✦
+## ✦ ACADEMIC RECOGNITION ✦
 
-My background gives me experience with both sides of technology:
+### 🏆 WGU Excellence Award
 
-- The business processes that software must support
-- The customers and employees who rely on those systems
-- The consequences of unclear or inaccurate system responses
-- The importance of human judgment when automation falls short
-- The need to design workflows that help users understand what to do next
+Selected by WGU Evaluation faculty for an Excellence Award based on the exceptional quality of my Front-End Web Development project.
 
-I am especially interested in technology that strengthens human decision-making while keeping users informed, supported, and in control.
+The project’s low-level layouts were recognized for being clean, readable, and clearly presenting the required page elements.
+
+[View the Georgia Tourism Project Showcase](https://github.com/angelacoreas1989-boop/georgia-tourism-website-showcase)
+
+---
+
+## ✦ TECH STACK ✦
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,python,html,css,git,github,vscode,nodejs,npm" alt="Angular, TypeScript, JavaScript, Python, HTML, CSS, Git, GitHub, VS Code, Node.js, and npm" />
+</p>
+
+<p align="center">
+Angular • TypeScript • JavaScript • Python • HTML • CSS • REST APIs • Git • GitHub • VS Code
+</p>
+
+---
+
+## ✦ CURRENTLY DEVELOPING ✦
+
+✦ Angular and TypeScript application development
+
+✦ JavaScript programming and event handling
+
+✦ Python programming fundamentals
+
+✦ REST API integration
+
+✦ Responsive front-end development
+
+✦ User flows and information architecture
+
+✦ Human-centered design principles
+
+✦ Human-AI interaction and trustworthy AI experiences
+
+✦ Git and GitHub version control
+
+---
+
+## ✦ FEATURED PROJECTS ✦
+
+### ✦ Software Engineering Portfolio ✦
+
+A responsive personal portfolio highlighting my software engineering projects, technical development, professional background, and interest in human-centered technology.
+
+**Technologies:** HTML • CSS • JavaScript • GitHub Pages
+
+[View Live Portfolio](https://angelacoreas1989-boop.github.io/tech-portfolio/) • [View Repository](https://github.com/angelacoreas1989-boop/tech-portfolio)
+
+---
+
+### ✦ Interactive World Map ✦
+
+An Angular and TypeScript application that retrieves geographic and economic country information from the World Bank API.
+
+Users select a country on an interactive SVG map to view its name, capital, region, income level, latitude, and longitude. The project demonstrates component-based development, Angular services, dependency injection, HTTP requests, event handling, SVG interaction, and dynamic data rendering.
+
+**Technologies:** Angular • TypeScript • HTML • CSS • SVG • World Bank API
+
+[View Project Showcase](https://github.com/angelacoreas1989-boop/interactive-world-map-showcase)
+
+---
+
+### ✦ Discovering Georgia Tourism Website ✦
+
+A responsive, multi-page tourism website created for WGU’s Front-End Web Development course.
+
+The website features Georgia’s history, attractions, state facts, and dedicated pages for Atlanta, Savannah, and Helen. It demonstrates semantic HTML, responsive layouts, navigation design, information hierarchy, tables, forms, and organized visual content.
+
+🏆 **WGU Excellence Award Recipient**
+
+**Technologies:** HTML • CSS • Responsive Web Design
+
+[View Project Showcase](https://github.com/angelacoreas1989-boop/georgia-tourism-website-showcase)
+
+---
+
+### ✦ Magnolia Grove Rental Experience ✦
+
+A multi-page apartment-search and rental-application experience that connects availability, screening requirements, policies, and application steps into one customer journey.
+
+The project applies my multifamily industry experience to user flows, form organization, information hierarchy, and front-end application design.
+
+**Technologies:** HTML • CSS • JavaScript • GitHub Pages
+
+[View Live Project](https://angelacoreas1989-boop.github.io/apartment-application-portal/) • [View Repository](https://github.com/angelacoreas1989-boop/apartment-application-portal)
+
+---
+
+### ✦ Leasing Application Portal ✦
+
+An interactive leasing operations dashboard that simulates applicant search, application review, status filtering, and leasing decisions.
+
+The project translates a real-world operational workflow into a front-end application using JavaScript objects, DOM manipulation, event handling, and filtering logic.
+
+**Technologies:** HTML • CSS • JavaScript • GitHub Pages
+
+[View Live Project](https://angelacoreas1989-boop.github.io/leasing-application-portal/) • [View Repository](https://github.com/angelacoreas1989-boop/leasing-application-portal)
+
+---
+
+### ✦ Nicole’s Flower Designs ✦
+
+A responsive website created for a family-owned floral business offering arrangements, weddings, special events, wreaths, delivery, and nationwide shipping.
+
+The project includes service galleries, ordering policies, Instagram integration, and a detailed custom-quote form with inspiration-photo uploads.
+
+**Technologies:** HTML • CSS • JavaScript • Formspree • GitHub Pages
+
+[View Live Project](https://angelacoreas1989-boop.github.io/nicole-flower-designs/) • [View Repository](https://github.com/angelacoreas1989-boop/nicole-flower-designs)
+
+---
+
+### ✦ Prime Nails by Fernanda ✦
+
+A responsive website created for an independent nail artist to showcase services, pricing, portfolio work, and booking information.
+
+The project focuses on client requirements, visual branding, mobile-friendly design, content organization, and a streamlined Instagram booking experience.
+
+**Technologies:** HTML • CSS • JavaScript • GitHub Pages
+
+[View Live Project](https://angelacoreas1989-boop.github.io/prime-nails-by-fernanda/) • [View Repository](https://github.com/angelacoreas1989-boop/prime-nails-by-fernanda)
+
+---
+
+## ✦ PROFESSIONAL EXPERIENCE ✦
+
+My professional background includes more than 10 years of experience across multifamily operations, centralized leasing, customer support, CRM systems, application processing, and technology-assisted workflows.
+
+I have supported large property portfolios while collaborating with prospective residents, onsite teams, operations partners, and customer-facing technology platforms.
+
+My experience includes:
+
+✦ Centralized leasing and resident support
+
+✦ Rental application processing and workflow coordination
+
+✦ Customer and prospect pipeline management
+
+✦ CRM and property-management systems
+
+✦ AI-assisted conversation review and quality assurance
+
+✦ Process troubleshooting and application support
+
+✦ Cross-functional collaboration with onsite teams
+
+✦ Bilingual customer communication in English and Spanish
+
+---
+
+## ✦ ENTERPRISE & PROPTECH PLATFORMS ✦
+
+<p align="center">
+MRI Software • Yardi Voyager • Entrata • EliseAI • Funnel Leasing • Anyone Home • Knock CRM • NICE CXone
+</p>
+
+<p align="center">
+Microsoft Office • Google Workspace • Microsoft Teams • Slack
+</p>
+
+---
+
+## ✦ WHAT I BRING ✦
+
+✦ More than 10 years of customer-facing and operational experience
+
+✦ A growing software engineering foundation
+
+✦ Experience translating business workflows into software projects
+
+✦ Understanding of customer needs and operational challenges
+
+✦ Familiarity with enterprise software and PropTech systems
+
+✦ Experience reviewing AI-assisted customer interactions
+
+✦ Strong written and verbal communication
+
+✦ Bilingual fluency in English and Spanish
+
+✦ Curiosity, initiative, and continuous learning
+
+---
+
+## ✦ CURRENT GOALS ✦
+
+I am continuing to build projects that strengthen my abilities in:
+
+✦ Angular and TypeScript
+
+✦ JavaScript and Python
+
+✦ API integration
+
+✦ Responsive web development
+
+✦ User experience and interaction design
+
+✦ Accessible application design
+
+✦ Enterprise software workflows
+
+✦ Human-AI interaction
+
+My goal is to combine my professional experience, technical education, and understanding of users to help build thoughtful technology solutions.
 
 ---
 
 ## ✦ CONNECT WITH ME ✦
 
 <p align="center">
-  <a href="mailto:angelacoreas1989@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-Contact-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email Angela Coreas"
-    />
+  <a href="mailto:acorea3@wgu.edu">
+    <img src="https://img.shields.io/badge/EMAIL-444444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Angela" />
   </a>
-  <a href="https://www.linkedin.com/in/angela-coreas-550088186">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-5a5a5a?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="Connect on LinkedIn"
-    />
-  </a>
-  <a href="https://github.com/angelacoreas1989-boop">
-    <img
-      src="https://img.shields.io/badge/GitHub-Profile-222222?style=for-the-badge&logo=github&logoColor=white"
-      alt="View GitHub Profile"
-    />
-  </a>
+
   <a href="https://angelacoreas1989-boop.github.io/tech-portfolio/">
-    <img
-      src="https://img.shields.io/badge/Portfolio-Website-87CEEB?style=for-the-badge"
-      alt="View Portfolio Website"
-    />
+    <img src="https://img.shields.io/badge/PORTFOLIO-ff69b4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/angela-coreas-550088186/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://github.com/angelacoreas1989-boop">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
+---
+
+## ✦ LANGUAGES ✦
+
+✦ English — Fluent
+
+✦ Spanish — Native/Bilingual
+
+✦ Portuguese — Beginner
+
+---
+
 <p align="center">
-  <strong>✦ Building Thoughtfully • Learning Continuously • Designing for Real Users ✦</strong>
+  ✦ Building Solutions • Writing Code • Improving Experiences ✦
 </p>
 
 <p align="center">
-  💗 Building consistently. Learning intentionally. Creating real-world solutions. 💗
+  <i>💗 Building consistently. Learning intentionally. Creating real-world solutions. 💗</i>
+</p>
+
+<p align="center">
+  ✦
 </p>
