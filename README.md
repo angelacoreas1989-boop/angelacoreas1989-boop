@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="assets/angela-coreas-chrome-banner.png" alt="Angela Coreas — Curious mind. Purposeful work." width="100%">
+  <img src="https://angelacoreas1989-boop.github.io/tech-portfolio/assets/angela-coreas-chrome-banner.png" alt="Angela Coreas — Curious mind. Purposeful work." width="100%">
 </p>
 
-<h1 align="center">✦ Professional Portfolio ✦</h1>
+<h1 align="center">✦ Welcome to My GitHub ✦</h1>
 
 <p align="center">
   <strong>Customer Experience • Operations & Systems Support • Software Engineering Student</strong>
 </p>
 
 <p align="center">
-  <a href="https://angelacoreas1989-boop.github.io/tech-portfolio/">View Portfolio</a> •
+  <a href="https://angelacoreas1989-boop.github.io/tech-portfolio/">View My Portfolio</a> •
   <a href="https://www.linkedin.com/in/angela-coreas-550088186/">LinkedIn</a> •
   <a href="mailto:ostorga.angelac@gmail.com">Contact Me</a>
 </p>
@@ -20,179 +20,107 @@
 
 I’m Angela Ostorga Coreas, a Software Engineering student at Western Governors University with more than 10 years of experience in customer service, multifamily operations, centralized leasing, application processing, and systems support.
 
-I love to learn about everything. Whether I’m exploring a new technology, learning a language, or understanding someone’s perspective, I approach it with curiosity and dedication. I learn quickly, adapt to new situations, and give my all to whatever I do.
+I love to learn about everything. I learn quickly, adapt to new situations, and give my all to whatever I do. Whether I’m exploring a technology, learning a language, or working through a problem, I enjoy understanding how things work and putting that knowledge into practice.
 
-Connecting with people is one of my strengths. I work well with different personalities and adapt my communication to help people feel comfortable, heard, and respected. I listen to understand, not simply to respond.
+Working with people is one of my strengths. I connect with different personalities and adapt my communication to help people feel comfortable, heard, and respected. I listen to understand, not simply to respond.
 
-My professional experience has taught me to stay patient during difficult conversations, manage competing priorities, investigate problems, and follow through. I bring that same care to my projects—creating experiences that help people find information, complete tasks, and feel supported.
-
-I speak English and Spanish and have elementary knowledge of Italian and Portuguese.
+My professional experience has taught me to stay patient during difficult conversations, manage competing priorities, investigate problems, and follow through. I bring that same care to my projects, creating tools and experiences that help people find information and complete tasks.
 
 ## ✦ What I Bring
 
 - More than 10 years of customer-facing and operational experience
-- Bilingual customer communication in English and Spanish
-- Adaptability to different personalities, teams, and systems
+- Bilingual communication in English and Spanish
 - High-volume customer support and prospect management
-- Application processing and accurate documentation
+- Application processing, documentation, and data accuracy
 - Escalation management and consistent follow-through
 - Workflow investigation and systems troubleshooting
 - Experience reviewing AI-assisted customer interactions
 - Cross-team collaboration and practical process feedback
-- A growing foundation in software engineering and user experience
-- Curiosity, initiative, accountability, and a commitment to learning
+- Adaptability to different personalities, teams, and systems
+- Curiosity, dedication, and a commitment to continuous learning
 
 ## ✦ Featured Projects
 
 ### Portuguese Study Studio
 
-A personalized Brazilian Portuguese learning website created around my own study needs, with **1,833 study cards across 71 guidebooks**.
+A personalized Brazilian Portuguese learning website with **1,833 study cards across 71 guidebooks**:
 
-| Study Content | Cards |
-| :--- | ---: |
-| Vocabulary | 936 |
-| Sentences | 590 |
-| Grammar | 307 |
-| **Total** | **1,833** |
+- 936 vocabulary cards
+- 590 sentence cards
+- 307 grammar cards
 
-Features include:
+Includes interactive flashcards, browser-powered pronunciation, adjustable speaking speed, search, filters, confidence ratings, Priority Review, progress tracking, and backup/restore.
 
-- Interactive flashcards
-- Vocabulary, sentence, grammar, and Priority Review tabs
-- Section and guidebook filters
-- Search by word or phrase
-- Browser-powered Portuguese pronunciation
-- Adjustable speaking speed
-- Still Learning, Almost There, and Mastered ratings
-- Progress tracking stored in each visitor’s browser
-- Backup and restore tools
-- Print and restart controls
-- Responsive layouts and touch-friendly navigation
-
-I curated the learning content and used AI-assisted development to turn my study requirements into a working website. I guided improvements through repeated use and feedback, including mobile readability, vocabulary visibility, navigation, and audio quality.
+I curated the content and used AI-assisted development to turn my study needs into a working website. I guided improvements to mobile usability, readability, navigation, and audio through repeated use and feedback.
 
 **Technologies:** HTML • CSS • JavaScript • Speech Synthesis • localStorage
 
 [Open Portuguese Study Studio](https://angela-portuguese-flashcards.angelacoreas1989.chatgpt.site/)
 
----
-
 ### Italian Study Studio
 
-A personalized Italian learning website with **625 study cards**, created to make repeated practice more organized and accessible.
+A separate Italian learning website with **625 study cards**:
 
-| Study Content | Cards |
-| :--- | ---: |
-| Vocabulary | 300 |
-| Sentences | 217 |
-| Grammar | 108 |
-| **Total** | **625** |
+- 300 vocabulary cards
+- 217 sentence cards
+- 108 grammar cards
 
-Features include:
+Includes pronunciation support, search, filtering, confidence ratings, Priority Review, progress tracking, and backup/restore.
 
-- Interactive vocabulary, sentence, and grammar cards
-- Search and section/unit filtering
-- Browser-powered Italian pronunciation
-- Adjustable speaking speed
-- Confidence ratings and Priority Review
-- Progress tracking
-- Backup and restore tools
-- Responsive layouts for phones, tablets, and laptops
-
-I used AI-assisted development to create the studio, curated its content, and guided improvements based on my study experience. The project combines language learning, personalized design, and practical usability improvements.
-
-Italian and Portuguese content and study progress remain separate.
+Created with AI-assisted development, content curation, and hands-on feedback. Italian and Portuguese content and study progress remain independent.
 
 **Technologies:** HTML • CSS • JavaScript • Speech Synthesis • localStorage
 
 [Open Italian Study Studio](https://angela-italian-flashcards.angelacoreas1989.chatgpt.site/)
 
----
-
 ### Interactive World Map
 
 An Angular and TypeScript application that retrieves geographic and economic country information from the World Bank API.
 
-Users select a country on an interactive SVG map to explore information such as its capital, region, income level, and geographic coordinates.
-
-The project demonstrates Angular services, API integration, event handling, SVG interaction, and dynamic data presentation.
-
-**Technologies:** Angular • TypeScript • HTML • CSS • SVG • REST API
+Demonstrates Angular services, API integration, interactive SVG elements, event handling, and dynamic data presentation.
 
 [View Project Showcase](https://github.com/angelacoreas1989-boop/interactive-world-map-showcase)
-
----
 
 ### Discovering Georgia Tourism Website
 
 A responsive, multi-page tourism website created for WGU’s Front-End Web Development course.
 
-The website presents Georgia destinations, state information, and dedicated pages for Atlanta, Savannah, and Helen.
-
-**WGU Excellence Award recipient:** Evaluation faculty praised my wireframes and page layouts for being clean, readable, and clearly organized, with the required page elements presented effectively.
-
-**Technologies:** HTML • CSS • Responsive Web Design
+**WGU Excellence Award recipient.** Evaluation faculty praised my wireframes and page layouts for being clean, readable, and clearly organized.
 
 [View Project Showcase](https://github.com/angelacoreas1989-boop/georgia-tourism-website-showcase)
 
----
-
 ### Magnolia Grove Rental Experience
 
-A multi-page apartment-search and rental-application experience connecting availability, screening requirements, policies, and application steps into one customer journey.
+An apartment-search and rental-application experience inspired by my professional leasing background.
 
-Inspired by my professional experience, the project focuses on helping prospective residents understand requirements and navigate the leasing process.
-
-**Technologies:** HTML • CSS • JavaScript • GitHub Pages
+Connects availability, screening requirements, policies, and application steps into an organized customer journey.
 
 [Live Demo](https://angelacoreas1989-boop.github.io/apartment-application-portal/) •
 [Repository](https://github.com/angelacoreas1989-boop/apartment-application-portal)
 
----
+### Leasing Operations Dashboard
 
-### Leasing Application Portal
+An interactive dashboard that simulates applicant search, application review, status filtering, and leasing decisions.
 
-An interactive leasing operations dashboard that simulates applicant search, application review, status filtering, and leasing decisions.
-
-The project translates a familiar operational workflow into a front-end application using JavaScript, DOM manipulation, event handling, and filtering logic.
-
-**Technologies:** HTML • CSS • JavaScript • GitHub Pages
+Translates real operational workflows into a front-end application.
 
 [Live Demo](https://angelacoreas1989-boop.github.io/leasing-application-portal/) •
 [Repository](https://github.com/angelacoreas1989-boop/leasing-application-portal)
 
----
+### Small-Business Websites
 
-### Nicole’s Flower Designs
+Responsive websites focused on clear service information, visual branding, and customer inquiries.
 
-A responsive website created for a family-owned floral business.
-
-The project organizes services, galleries, ordering information, and customer inquiries to help visitors explore arrangements and request a custom quote.
-
-**Technologies:** HTML • CSS • JavaScript • Formspree • GitHub Pages
-
-[Live Demo](https://angelacoreas1989-boop.github.io/nicole-flower-designs/) •
-[Repository](https://github.com/angelacoreas1989-boop/nicole-flower-designs)
-
----
-
-### Prime Nails by Fernanda
-
-A responsive website created for an independent nail artist to showcase services, pricing, portfolio work, and booking information.
-
-The project focuses on visual branding, mobile usability, clear service information, and a straightforward Instagram booking experience.
-
-**Technologies:** HTML • CSS • JavaScript • GitHub Pages
-
-[Live Demo](https://angelacoreas1989-boop.github.io/prime-nails-by-fernanda/) •
-[Repository](https://github.com/angelacoreas1989-boop/prime-nails-by-fernanda)
+- [Nicole’s Flower Designs](https://angelacoreas1989-boop.github.io/nicole-flower-designs/)
+- [Prime Nails by Fernanda](https://angelacoreas1989-boop.github.io/prime-nails-by-fernanda/)
+- [A&S Tires](https://angelacoreas1989-boop.github.io/as-tires/)
 
 ## ✦ Professional Experience
 
 ### Vivmark Residential / Equity Residential
 
 **Centralized Leasing Specialist — Application Processing & Systems Support**  
-**February 2025–Present**
+February 2025–Present
 
 - Support centralized application, leasing, communication, and systems workflows across 100+ communities, coordinating with onsite teams to keep high-volume work moving accurately and on time.
 - Investigate workflow and system issues across MRI Software, EliseAI, Anyone Home, and connected processes; gather facts, identify breakdown points, document findings, and coordinate next steps with the appropriate teams.
@@ -203,7 +131,7 @@ The project focuses on visual branding, mobile usability, clear service informat
 ### RPM Living
 
 **Portfolio Leasing Associate — Centralized Operations**  
-**March 2024–May 2025**
+March 2024–May 2025
 
 - Supported 16 communities as part of a centralized leasing model, balancing high-volume customer work with application follow-up, CRM documentation, and coordination with onsite teams.
 - Worked directly with Funnel Leasing and provided operational feedback on follow-up and task-creation workflows based on recurring issues observed in day-to-day leasing activity.
@@ -212,7 +140,7 @@ The project focuses on visual branding, mobile usability, clear service informat
 ### Cortland
 
 **Bilingual Leasing Hub Associate**  
-**February 2023–September 2023**
+February 2023–September 2023
 
 - Provided centralized support across 13 communities while maintaining approximately 98% call-quality performance, 100% guest-card calibration, and a 65% tour rate against a 60% goal.
 - Took initiative to identify recurring communication and workflow problems between onsite teams and the Leasing Hub and proposed solutions to improve handoffs and collaboration.
@@ -222,7 +150,7 @@ The project focuses on visual branding, mobile usability, clear service informat
 ### MAA
 
 **Leasing, Renewals & Resident Operations**  
-**February 2019–February 2023**
+February 2019–February 2023
 
 - Managed the full lease-renewal process from resident outreach through execution, including follow-up, retention efforts, documentation, and coordination of outstanding requirements.
 - Negotiated renewal pricing with residents using approved rent recommendations and balanced retention goals with property pricing and operational objectives.
@@ -238,49 +166,33 @@ The project focuses on visual branding, mobile usability, clear service informat
 
 Developing my foundation in programming, web development, software design, version control, data management, and user experience.
 
-### Associate Degree — Criminal Justice / Criminology
+### Gwinnett Technical College
 
-**Completed 2013**
+**Associate Degree — Criminal Justice / Criminology**  
+Completed 2013
 
-## ✦ Recognition & Achievements
+## ✦ Recognition
 
-### WGU Excellence Award
+- **WGU Excellence Award:** Recognized for clean, readable wireframes and organized page layouts in my Front-End Web Development project.
+- **Cortland Employee of the Month**
+- **Cortland Rising Star / Rising Superstar honors**
 
-Recognized by WGU Evaluation faculty for the exceptional quality of my Discovering Georgia Front-End Web Development project.
+## ✦ Skills & Tools
 
-Faculty praised my wireframes and page layouts for their readability, organization, and clear presentation of required elements.
-
-### Cortland Recognition
-
-Received **Employee of the Month** and **Rising Star / Rising Superstar** honors.
-
-Selected to travel to Florida to help address communication and workflow challenges between onsite teams and centralized operations.
-
-## ✦ Skills & Platforms
-
-### Customer Service & Operations
-
-Customer communication • Active listening • Escalation management • Application processing • CRM documentation • Prospect management • Cross-team coordination • Workflow investigation • Data accuracy • Bilingual support
-
-### Development
-
+**Development:**  
 HTML • CSS • JavaScript • Angular • TypeScript • REST APIs • Git • GitHub • Python fundamentals
 
-### Design & User Experience
+**Design & User Experience:**  
+Responsive design • User flows • Information hierarchy • Form organization • Workflow design • Iterative improvements
 
-Responsive layouts • User flows • Information hierarchy • Form organization • Workflow design • Iterative interface improvements • AI-output evaluation
-
-### Enterprise & PropTech Platforms
-
+**Enterprise & PropTech:**  
 MRI Software • Yardi Voyager • Entrata • EliseAI • Funnel Leasing • Anyone Home • Knock CRM • NICE CXone
 
-### Collaboration Tools
-
+**Collaboration:**  
 Microsoft Office • Google Workspace • Microsoft Teams • Slack
 
-### Continuing to Learn
-
-Figma • Interaction design • Accessibility • Human-AI interaction • Data management • Software development
+**Continuing to Learn:**  
+Figma • Accessibility • Interaction design • Human-AI interaction • Data management
 
 ## ✦ Languages
 
@@ -293,40 +205,19 @@ Figma • Interaction design • Accessibility • Human-AI interaction • Data
 
 ## ✦ Open to Opportunities
 
-I’m open to customer service, customer experience, centralized operations, application processing, and systems or application support roles where I can contribute my experience working with people, solving problems, and keeping complex workflows organized.
+I’m interested in customer service, customer experience, centralized operations, application processing, and systems or application support roles where I can contribute my experience working with people and solving problems.
 
-I’m also interested in opportunities to grow in technical support, enterprise software, PropTech, UX, product support, and front-end development, including Summer 2027 internships.
+I’m also exploring technical support, enterprise software, PropTech, UX, product support, and front-end development opportunities, including Summer 2027 internships.
 
-I bring hands-on operational experience, bilingual communication, a strong commitment to quality, and the ability to learn new tools and adapt to different teams and personalities.
+I bring thoughtful customer care, bilingual communication, a strong work ethic, and a willingness to learn. I’m excited to contribute to a team that values collaboration, accountability, and continued growth.
 
-I’d love to connect with a team that values thoughtful customer care, collaboration, accountability, and continuous learning. Whether I’m helping a customer, supporting a colleague, or learning a new system, I’m ready to contribute, follow through, and give the work my best.
-
-## ✦ About This Repository
-
-This repository contains the source for my professional portfolio, published through GitHub Pages.
-
-The website presents my projects, professional experience, education, recognition, skills, and contact information.
-
-**Built with:** HTML • CSS • JavaScript  
-**Hosted with:** GitHub Pages
-
-### Updating the Website
-
-- Edit `index.html` to update the website’s content.
-- Upload referenced images to the `assets` folder.
-- Commit changes to the branch configured for GitHub Pages.
-- Check the repository’s Actions tab for deployment status.
-
-Updating this `README.md` changes the repository’s introduction. It does not replace or update the live website’s `index.html`.
-
-## ✦ Connect With Me
+## ✦ Let’s Connect
 
 **School Email:** [acorea3@wgu.edu](mailto:acorea3@wgu.edu)  
 **Personal Email:** [ostorga.angelac@gmail.com](mailto:ostorga.angelac@gmail.com)
 
 [Portfolio](https://angelacoreas1989-boop.github.io/tech-portfolio/) •
-[LinkedIn](https://www.linkedin.com/in/angela-coreas-550088186/) •
-[GitHub](https://github.com/angelacoreas1989-boop)
+[LinkedIn](https://www.linkedin.com/in/angela-coreas-550088186/)
 
 **Professional references available upon request.**
 
