@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://angelacoreas1989-boop.github.io/tech-portfolio/">View My Portfolio</a> •
-  <a href="https://www.linkedin.com/in/angela-coreas-550088186/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/angela-ostorga-coreas-550088186/">LinkedIn</a> •
   <a href="mailto:ostorga.angelac@gmail.com">Contact Me</a>
 </p>
 
@@ -19,7 +19,7 @@
 ## ✦ About Me
 
 I’m Angela Ostorga Coreas, a Software Engineering student at Western Governors University with more than 10 years of experience in customer service, multifamily operations, centralized leasing, application processing, and systems support.
-
+F
 I love to learn about everything. I learn quickly, adapt to new situations, and give my all to whatever I do. Whether I’m exploring a technology, learning a language, or working through a problem, I enjoy understanding how things work and putting that knowledge into practice.
 
 Working with people is one of my strengths. I connect with different personalities and adapt my communication to help people feel comfortable, heard, and respected. I listen to understand, not simply to respond.
@@ -217,7 +217,7 @@ I bring thoughtful customer care, bilingual communication, a strong work ethic, 
 **Personal Email:** [ostorga.angelac@gmail.com](mailto:ostorga.angelac@gmail.com)
 
 [Portfolio](https://angelacoreas1989-boop.github.io/tech-portfolio/) •
-[LinkedIn](https://www.linkedin.com/in/angela-coreas-550088186/)
+[LinkedIn](https://www.linkedin.com/in/angela-ostorga-coreas-550088186/)
 
 **Professional references available upon request.**
 
